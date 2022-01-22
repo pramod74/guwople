@@ -17,7 +17,7 @@ export const InfoModal = ({ isOpen, handleClose, darkMode, styles }) => (
         <div className="flex-1 w-full sm:text-base text-sm">
           <h1 className="text-center sm:text-3xl text-2xl">What is this?</h1>
           <ul className="list-disc pl-5 block sm:text-base text-sm">
-            <li className="mt-6 mb-2">This word gussing game with a dictionary of words from <a href="https://twitter.com/gucci1017">the trap god Gucci Mane</a>'s song titles. It's built on <a href="https://twitter.com/katherinecodes">Katherine Peterson</a>'s <a href="https://octokatherine.github.io/word-master">WordMaster</a></li>
+            <li className="mt-6 mb-2">This is aword guessing game with a dictionary of words from <a href="https://twitter.com/gucci1017">the trap god Gucci Mane</a>'s song titles. It's built on <a href="https://twitter.com/katherinecodes">Katherine Peterson</a>'s <a href="https://octokatherine.github.io/word-master">WordMaster</a></li>
           </ul>
           <ul className="list-disc pl-5 block sm:text-base text-sm">
             <li className="mt-6 mb-2">Made by <a href="https://medium.com/@steffanybrown">Steffany Brown</a>. bling blaww.</li>
