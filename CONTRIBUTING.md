@@ -11,8 +11,8 @@ Create a new issue! On the issue we can discuss the problem and assign the work.
 
 ### Ready to contribute?
 
-1. Comment on the issue to claim it
-3. Create a fork of the repo
+1. Comment on one of the [issues](https://github.com/steffnay/guwople/issues) to claim it.
+3. Create a fork of the repo.
 4. If you encounter any trouble while trying to get the project running, feel free to open an issue with your question.
 5. Work on your fork, then open a pull request. Tag the issue in your pull request (There is a template when you open a PR.
 6. Your PR will be reviewed, and if it is approved it will be merged into `main`.
