@@ -2,7 +2,7 @@
   "name": "guwople",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://steffnay.github.io",
+  "homepage": "http://steffnay.github.io/guwople",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@testing-library/jest-dom": "^5.16.1",
