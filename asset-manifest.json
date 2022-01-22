@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cacaf1c.css",
-    "main.js": "/static/js/main.e74e023d.js",
-    "static/media/gucci.jpeg": "/static/media/gucci.847d8fce1c24d0e2e3f7.jpeg",
-    "static/media/Ranade-Variable.ttf": "/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
-    "index.html": "/index.html",
-    "static/media/Github.svg": "/static/media/Github.6a9e1709e73c56888979048bb60e60a5.svg",
-    "static/media/Settings.svg": "/static/media/Settings.0808c435ed629b919ffa742a20d897f6.svg",
-    "static/media/Info.svg": "/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
-    "static/media/Close.svg": "/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
-    "main.1cacaf1c.css.map": "/static/css/main.1cacaf1c.css.map",
-    "main.e74e023d.js.map": "/static/js/main.e74e023d.js.map"
+    "main.css": "/guwople/static/css/main.dfccc7f2.css",
+    "main.js": "/guwople/static/js/main.155590f0.js",
+    "static/media/gucci.jpeg": "/guwople/static/media/gucci.847d8fce1c24d0e2e3f7.jpeg",
+    "static/media/Ranade-Variable.ttf": "/guwople/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
+    "index.html": "/guwople/index.html",
+    "static/media/Github.svg": "/guwople/static/media/Github.6a9e1709e73c56888979048bb60e60a5.svg",
+    "static/media/Settings.svg": "/guwople/static/media/Settings.0808c435ed629b919ffa742a20d897f6.svg",
+    "static/media/Info.svg": "/guwople/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
+    "static/media/Close.svg": "/guwople/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
+    "main.dfccc7f2.css.map": "/guwople/static/css/main.dfccc7f2.css.map",
+    "main.155590f0.js.map": "/guwople/static/js/main.155590f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cacaf1c.css",
-    "static/js/main.e74e023d.js"
+    "static/css/main.dfccc7f2.css",
+    "static/js/main.155590f0.js"
   ]
 }
