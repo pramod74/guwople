@@ -15,3 +15,8 @@ After submitting a guess, the letters will turn gray, green, or yellow.
 - Yellow: The letter is correct, but in the wrong position.
 - Gray: The letter is incorrect.
 
+## Contributing
+
+Feel free to open an issue for any bugs or feature requests.
+
+To contribute to the code, see [CONTRIBUTING.md](https://github.com/steffnay/guwople/blob/main/CONTRIBUTING.md)
