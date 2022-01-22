@@ -27,7 +27,7 @@ export const difficulty = {
 const getRandomAnswer = () => {
   const randomIndex = Math.floor(Math.random() * gucciAnswers.length)
   let word = gucciAnswers[randomIndex].toUpperCase()
-  // word = 'HELLO'
+  word = 'HELLO'
   return word
 }
 
@@ -261,6 +261,10 @@ function App() {
     setCurrentStreak,
     setLongestStreak,
   ])
+  const congratsLyrics = ['Guwop still Trap God and they quote me more than Dr. Seuss!', 'So icy!!', `I'm so proud of you. wop!`];
+  const sadLyrics = [`I had the county blues, now every day, I'm countin' the blues`]
+  const congratsLyric = congratsLyrics[Math.floor(Math.random() * congratsLyrics.length)]
+  const sadLyric = sadLyrics[Math.floor(Math.random() * sadLyrics.length)]
 
   const updateLetterStatuses = (word) => {
     setLetterStatuses((prev) => {
@@ -402,6 +406,8 @@ function App() {
           longestStreak={longestStreak}
           answer={answer}
           playAgain={playAgain}
+          congratsLyric={congratsLyric}
+          sadLyric={sadLyric}
         />
         <SettingsModal
           isOpen={settingsModalIsOpen}

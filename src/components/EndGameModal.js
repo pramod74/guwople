@@ -16,6 +16,8 @@ export const EndGameModal = ({
   longestStreak,
   answer,
   playAgain,
+  congratsLyric,
+  sadLyric,
 }) => {
   const PlayAgainButton = () => {
     return (
@@ -49,7 +51,7 @@ export const EndGameModal = ({
           {gameState === state.won && (
             <>
               <img src={Success} alt="success" height="auto" width="auto" />
-              <h1 className=" text-3xl">Congrats!</h1>
+              <h1 className=" text-3xl">{congratsLyric}</h1>
               <p className="mt-6">
                 Current streak: <strong>{currentStreak}</strong> {currentStreak > 4 && '🔥'}
               </p>
@@ -62,7 +64,7 @@ export const EndGameModal = ({
             <>
               <img src={Fail} alt="success" height="auto" width="80%" />
               <div className="text-primary dark:text-primary-dark text-4xl text-center">
-                <p>Oops!</p>
+                <p>{sadLyric}</p>
                 <p className="mt-3 text-2xl">
                   The word was <strong>{answer}</strong>
                 </p>
