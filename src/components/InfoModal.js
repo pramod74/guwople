@@ -8,14 +8,21 @@ export const InfoModal = ({ isOpen, handleClose, darkMode, styles }) => (
   <Modal isOpen={isOpen} onRequestClose={handleClose} style={styles} contentLabel="Game Info Modal">
     <div className={`h-full ${darkMode ? 'dark' : ''}`}>
       <button
-        className="absolute top-4 right-4 rounded-full nm-flat-background dark:nm-flat-background-dark text-primary dark:text-primary-dark p-1 w-6 h-6 sm:p-2 sm:h-8 sm:w-8 hover:nm-inset-background dark:hover:nm-inset-background-dark"
+        className="absolute top-4 right-4 rounded-full nm-flat-background dark:nm-flat-background-dark text-primary dark:text-primary-dark p-1 w-6 h-6 sm:p-2 sm:h-8 sm:w-8"
         onClick={handleClose}
       >
         <Close />
       </button>
       <div className="h-full flex flex-col items-center justify-center max-w-[390px] mx-auto pt-9 text-primary dark:text-primary-dark">
         <div className="flex-1 w-full sm:text-base text-sm">
-          <h1 className="text-center sm:text-3xl text-2xl">How to play</h1>
+          <h1 className="text-center sm:text-3xl text-2xl">What is this?</h1>
+          <ul className="list-disc pl-5 block sm:text-base text-sm">
+            <li className="mt-6 mb-2">This word gussing game with a dictionary of words from <a href="https://twitter.com/gucci1017">the trap god Gucci Mane</a>'s song titles. It's built on <a href="https://twitter.com/katherinecodes">Katherine Peterson</a>'s <a href="https://octokatherine.github.io/word-master">WordMaster</a></li>
+          </ul>
+          <ul className="list-disc pl-5 block sm:text-base text-sm">
+            <li className="mt-6 mb-2">Made by <a href="https://medium.com/@steffanybrown">Steffany Brown</a>. bling blaww.</li>
+          </ul>
+          <h1 className="text-center sm:text-3xl text-2xl">How to play?</h1>
           <ul className="list-disc pl-5 block sm:text-base text-sm">
             <li className="mt-6 mb-2">You have 6 guesses to guess the correct word.</li>
             <li className="mb-2">You can guess any valid word.</li>
@@ -47,7 +54,7 @@ export const InfoModal = ({ isOpen, handleClose, darkMode, styles }) => (
           <span>This project is open source on</span>
           <a
             className="ml-[6px] rounded-full h-5 w-5 sm:h-6 sm:w-6"
-            href="https://github.com/octokatherine/word-master"
+            href="https://github.com/steffnay/guwople"
             target="_blank"
             rel="noreferrer"
           >
