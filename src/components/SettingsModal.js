@@ -76,7 +76,7 @@ export const SettingsModal = ({ isOpen, handleClose, styles, darkMode, toggleDar
             <div className="mb-4">
               If you're enjoying this game, you can show your support by{' '}
               <a
-                href="https://www.buymeacoffee.com/katherinecodes"
+                href="https://www.buymeacoffee.com/steffany"
                 target="_blank"
                 rel="noreferrer"
               >
