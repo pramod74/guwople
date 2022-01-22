@@ -27,7 +27,6 @@ export const difficulty = {
 const getRandomAnswer = () => {
   const randomIndex = Math.floor(Math.random() * gucciAnswers.length)
   let word = gucciAnswers[randomIndex].toUpperCase()
-  word = 'HELLO'
   return word
 }
 
