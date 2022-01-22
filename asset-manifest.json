@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/guwople/static/css/main.dfccc7f2.css",
-    "main.js": "/guwople/static/js/main.155590f0.js",
+    "main.js": "/guwople/static/js/main.b7d04f1c.js",
     "static/media/gucci.jpeg": "/guwople/static/media/gucci.847d8fce1c24d0e2e3f7.jpeg",
     "static/media/Ranade-Variable.ttf": "/guwople/static/media/Ranade-Variable.bb177f94a709e8e8f396.ttf",
     "index.html": "/guwople/index.html",
@@ -10,10 +10,10 @@
     "static/media/Info.svg": "/guwople/static/media/Info.ee717ac430bb01bfbbd42aa3dbffe913.svg",
     "static/media/Close.svg": "/guwople/static/media/Close.f34771d5d250820d8c5ec83c816bf8f5.svg",
     "main.dfccc7f2.css.map": "/guwople/static/css/main.dfccc7f2.css.map",
-    "main.155590f0.js.map": "/guwople/static/js/main.155590f0.js.map"
+    "main.b7d04f1c.js.map": "/guwople/static/js/main.b7d04f1c.js.map"
   },
   "entrypoints": [
     "static/css/main.dfccc7f2.css",
-    "static/js/main.155590f0.js"
+    "static/js/main.b7d04f1c.js"
   ]
 }
