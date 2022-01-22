@@ -3,7 +3,7 @@
 ### Introduction
 
 - This site is built with React and TailwindCSS
-- Check out the existing issues for ways to contribute
+- Check out the existing issues for ways to contribute. Issues have labels that describe them. If you need clarification or want to discuss potential approaches, just leave a comment!
 
 ### Have a new feature request or see a bug?
 
