@@ -10,6 +10,7 @@ import { SettingsModal } from './components/SettingsModal'
 import answers from './data/answers'
 import { useLocalStorage } from './hooks/useLocalStorage'
 import words from './data/words'
+import gucciAnswers from './data/gucciWords'
 
 const state = {
   playing: 'playing',
@@ -24,8 +25,10 @@ export const difficulty = {
 }
 
 const getRandomAnswer = () => {
-  const randomIndex = Math.floor(Math.random() * answers.length)
-  return answers[randomIndex].toUpperCase()
+  const randomIndex = Math.floor(Math.random() * gucciAnswers.length)
+  let word = gucciAnswers[randomIndex].toUpperCase()
+  // word = 'HELLO'
+  return word
 }
 
 function App() {
@@ -336,7 +339,7 @@ function App() {
             <Settings />
           </button>
           <h1 className="flex-1 text-center text-xl xxs:text-2xl sm:text-4xl tracking-wide font-bold font-righteous">
-            WORD MASTER
+            GUWOPle
           </h1>
           <button
             type="button"

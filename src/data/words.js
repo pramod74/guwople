@@ -9331,6 +9331,19 @@ const words = {
   zuppa: true,
   zuzim: true,
   zymes: true,
+  floyd: true,
+  gucci: true,
+  wanna: true,
+  vibin: true,
+  muwop: true,
+  guwop: true,
+  chapo: true,
+  pablo: true,
+  liife: true,
+  milli: true,
+  pillz: true,
+  juugs: true,
+  blaww: true,
 }
 
 export default words
