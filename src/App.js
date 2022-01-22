@@ -7,10 +7,10 @@ import { InfoModal } from './components/InfoModal'
 import { Keyboard } from './components/Keyboard'
 import { ReactComponent as Settings } from './data/Settings.svg'
 import { SettingsModal } from './components/SettingsModal'
-import answers from './data/answers'
 import { useLocalStorage } from './hooks/useLocalStorage'
 import words from './data/words'
 import gucciAnswers from './data/gucciWords'
+import InfoGucci from './data/info.png'
 
 const state = {
   playing: 'playing',

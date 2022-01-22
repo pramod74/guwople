@@ -1,7 +1,7 @@
 import { ReactComponent as Close } from '../data/Close.svg'
 import Modal from 'react-modal'
-import Success from '../data/gucci.jpeg'
-import Fail from '../data/guccisad.jpeg'
+import Success from '../data/successful.png'
+import Fail from '../data/unsuccessful.png'
 
 Modal.setAppElement('#root')
 

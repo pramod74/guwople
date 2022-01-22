@@ -37,3 +37,7 @@ html {
 .font-righteous {
   font-family: 'Righteous', cursive;
 }
+.gucci {
+  /* height: 100vh; */
+  max-height: 200px;
+}
