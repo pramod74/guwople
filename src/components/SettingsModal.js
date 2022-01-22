@@ -85,14 +85,14 @@ export const SettingsModal = ({ isOpen, handleClose, styles, darkMode, toggleDar
               <span className="ml-1 text-xs">💛</span>
             </div>
             <a
-              href="https://www.buymeacoffee.com/katherinecodes"
+              href="https://www.buymeacoffee.com/steffany"
               target="_blank"
               rel="noreferrer"
               className="nm-flat-background dark:nm-flat-background-dark rounded-xl hover:nm-inset-background dark:hover:nm-inset-background-dark"
             >
               <img
                 alt="buy me a coffee"
-                src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=katherinecodes&button_colour=eab308&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
+                src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=steffany&button_colour=eab308&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
               />
             </a>
           </div>
