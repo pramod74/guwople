@@ -14,4 +14,5 @@ Create a new issue! On the issue we can discuss the problem and assign the work.
 1. Comment on the issue to claim it
 3. Create a fork of the repo
 4. Work on your fork, then open a pull request. Tag the issue in your pull request (There is a template when you open a PR)
-5. Your PR will be reviewed, and if it is approved it will be merged into `main`
+5. If you encounter any trouble while trying to get the project running, feel free to open an issue with your question.
+6. Your PR will be reviewed, and if it is approved it will be merged into `main`
