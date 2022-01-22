@@ -2,7 +2,7 @@
 
 🔗 https://steffnay.github.io/guwople
 
-This is a word guessing game that selects words from a lexicon composed of words from [the trap god Gucci Mane](https://twitter.com/gucci1017)'s track names. It's built on [Katherine Peterson](https://twitter.com/katherinecodes)'s [WordMaster](https://octokatherine.github.io/word-master).
+This is a word guessing game that selects from a lexicon composed of words from [the trap god Gucci Mane](https://twitter.com/gucci1017)'s track names. It's built on [Katherine Peterson](https://twitter.com/katherinecodes)'s [WordMaster](https://octokatherine.github.io/word-master).
 
 ## Rules
 
