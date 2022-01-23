@@ -10,7 +10,6 @@ import { SettingsModal } from './components/SettingsModal'
 import { useLocalStorage } from './hooks/useLocalStorage'
 import words from './data/words'
 import gucciAnswers from './data/gucciWords'
-import InfoGucci from './data/info.png'
 
 const state = {
   playing: 'playing',
